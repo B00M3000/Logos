@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Logitech",
+    "steps": [
+      { "type": "arc", "x": 100, "y": 100, "r": 42, "s": 0.5, "e": 1.5, "w": 20, "c": "aqua" },
+      { "type": "rect", "x": 125, "y": 100, "w": 50, "h": 25, "c": "aqua" },
+      { "type": "rect", "x": 137.5, "y": 112.5, "w": 25, "h": 50, "c": "aqua" }
+    ]
+  },
+  {
+    "name": "Eclipse",
+    "steps": [
+      { "type": "circle", "x": 100, "y": 100, "r": 47, "c": "orange" },
+      { "type": "circle", "x": 105, "y": 100, "r": 40, "c": "darkblue" },
+      { "type": "arc", "x": 105, "y": 100, "r": 42, "s": 0, "e": 2, "w": 5, "c": "white" },
+      { "type": "rect", "x": 105, "y": 85, "w": 80, "h": 5, "c": "white" },
+      { "type": "rect", "x": 105, "y": 115, "w": 80, "h": 5, "c": "white" },
+      { "type": "rect", "x": 105, "y": 100, "w": 80, "h": 5, "c": "white" }
+    ]
+  },
+  {
+    "name": "Discord",
+    "steps": [
+      { "type": "eclipse", "x": 100, "y": 100, "rx": 75, "ry": 50, "rotation": 0, "c": "#8C9EFF" },
+      { "type": "eclipse", "x": 75, "y": 100, "rx": 10, "ry": 15, "rotation": 0, "c": "white" },
+      { "type": "eclipse", "x": 125, "y": 100, "rx": 10, "ry": 15, "rotation": 0, "c": "white" },
+      { "type": "eclipse", "x": 30, "y": 100, "rx": 10, "ry": 45, "rotation": 0.1, "c": "#8C9EFF" },
+      { "type": "eclipse", "x": 45, "y": 53, "rx": 5, "ry": 20, "rotation": 1, "c": "#8C9EFF" },
+      { "type": "eclipse", "x": 54, "y": 152, "rx": 5, "ry": 35, "rotation": -1.2, "c": "#8C9EFF" },
+      { "type": "eclipse", "x": 170, "y": 100, "rx": 10, "ry": 45, "rotation": -0.1, "c": "#8C9EFF" },
+      { "type": "eclipse", "x": 156, "y": 53, "rx": 5, "ry": 20, "rotation": -1, "c": "#8C9EFF" },
+      { "type": "eclipse", "x": 146, "y": 152, "rx": 5, "ry": 35, "rotation": 1.2, "c": "#8C9EFF" }
+    ]
+  },
+  {
+    "name": "Illustrator",
+    "steps": [
+      { "type": "round_rect", "x": 100, "y": 100, "w": 100, "h": 100, "r": 20, "c": "#350001" },
+      { "type": "text", "t": "Ai", "x": 100, "y": 120, "s": 60, "f": "Arial", "c": "#FE9500" }
+    ]
+  },
+  { 
+    "name": "After Affects",
+    "steps": [
+      { "type": "round_rect", "x": 100, "y": 100, "w": 100, "h": 100, "r": 20, "c": "#01015B" },
+      { "type": "text", "t": "Ae", "x": 100, "y": 120, "s": 60, "f": "Arial", "c": "#9D9CFE" }
+    ]
+  },
+  {
+    "name": "Photoshop",
+    "steps": [
+      { "type": "round_rect", "x": 100, "y": 100, "w": 100, "h": 100, "r": 20, "c": "#02163A" },
+      { "type": "text", "t": "Ps", "x": 100, "y": 120, "s": 60, "f": "Arial", "c": "#34AAFF" }
+    ]
+  },
+  {
+    "name": "Roblox Studio",
+    "steps": [
+      { "type": "rect", "x": 100, "y": 100, "w": 100, "h": 100, "c": "#00A1FF", "rotation": 0.1 },
+      { "type": "rect", "x": 100, "y": 100, "w": 20, "h": 20, "c": "white", "rotation": 0.1 },
+      { "type": "line", "x1": 47, "y1": 0, "x2": 153, "y2": "200", "c": "white", "w": 8 }
+    ]
+  },
+  {
+    "name": "Roblox",
+    "steps": [
+      { "type": "rect", "x": 100, "y": 100, "w": 100, "h": 100, "c": "#E12319", "rotation": 0.1 },
+      { "type": "rect", "x": 100, "y": 100, "w": 15, "h": 15, "c": "white", "rotation": 0.1 }
+    ]
+  },
+  {
+    "name": "Stadia",
+    "steps": [
+      { "type": "arc", "x": 125, "y": 225, "r": 75, "s": 1.3, "e": 1.62, "w": 20, "c": "grad line 50 100 150 100 #FD4B1E #AF0F55" },
+      { "type": "arc", "x": 75, "y": 225, "r": 105, "s": 1.5, "e": 1.78, "w": 20, "c": "grad line 50 100 150 100 #FD4B1E #AF0F55" },
+      { "type": "arc", "x": 125, "y": 225, "r": 118, "s": 1.345, "e": 1.7, "w": 20, "c": "grad line 50 100 150 100 #FD4B1E #AF0F55" }
+    ]
+  },
+  {
+    "name": "Google Assistant",
+    "steps": [
+      { "type": "circle", "x": 75, "y": 75, "r": 30, "c": "#4285F4" },
+      { "type": "circle", "x": 125, "y": 100, "r": 15, "c": "#EA4335" },
+      { "type": "circle", "x": 125, "y": 150, "r": 20, "c": "#FBBC04" },
+      { "type": "circle", "x": 145, "y": 75, "r": 8, "c": "#009A51" }
+    ]
+  },
+  {
+    "name": "Google Photos",
+    "steps": [
+      { "type": "arc", "x": 100, "y": 60, "r": 20, "s": -0.5, "e": 0.5, "w": 40, "c": "#E64132" },
+      { "type": "arc", "x": 100, "y": 140, "r": 20, "s": 0.5, "e": 1.5, "w": 40, "c": "#31A452" },
+      { "type": "arc", "x": 60, "y": 100, "r": 20, "s": 1, "e": 2, "w": 40, "c": "#F6B800" },
+      { "type": "arc", "x": 140, "y": 100, "r": 20, "s": 2, "e": 1, "w": 40, "c": "#4285F4" }
+    ]
+  },
+  {
+    "name": "Chrome Cast",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "round_rect", "x": 100, "y": 100, "w": 150, "h": 100, "r": 5, "c": "#888888" },
+      { "type": "round_rect", "x": 100, "y": 100, "w": 136, "h": 86, "r": 5, "c": "#ffffff" },
+      { "type": "circle", "x": 25, "y": 150, "r": 75, "c": "#ffffff" },
+      { "type": "arc", "x": 25, "y": 150, "r": 5, "s": 1.5, "e": 2, "w": 10, "c": "#888888" },
+      { "type": "arc", "x": 25, "y": 150, "r": 25, "s": 1.5, "e": 2, "w": 10, "c": "#888888" },
+      { "type": "arc", "x": 25, "y": 150, "r": 45, "s": 1.5, "e": 2, "w": 10, "c": "#888888" },
+      { "type": "arc", "x": 25, "y": 150, "r": 65, "s": 1.5, "e": 2, "w": 10, "c": "#888888" }
+    ]
+  },
+  {
+    "name": "Spotify",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "circle", "x": 100, "y": 100, "r": 50, "c": "#55ff55" },
+      { "type": "arc", "x": 90, "y": 155, "r": 45, "s": 1.35, "e": 1.75, "w": 5, "c": "white" },
+      { "type": "arc", "x": 90, "y": 155, "r": 60, "s": 1.375, "e": 1.725, "w": 6, "c": "white" },
+      { "type": "arc", "x": 90, "y": 155, "r": 75, "s": 1.395, "e": 1.7, "w": 7, "c": "white" }
+    ]
+  },
+  {
+    "name": "Target",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "circle", "x": 100, "y": 100, "r": 50, "c": "red" },
+      { "type": "circle", "x": 100, "y": 100, "r": 35, "c": "white" },
+      { "type": "circle", "x": 100, "y": 100, "r": 20, "c": "red" }
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "rect", "x": 60, "y": 60, "w": 48, "h": 48, "c": "#F25022" },
+      { "type": "rect", "x": 60, "y": 110, "w": 48, "h": 48, "c": "#00A4EF" },
+      { "type": "rect", "x": 110, "y": 110, "w": 48, "h": 48, "c": "#FFB900" },
+      { "type": "rect", "x": 110, "y": 60, "w": 48, "h": 48, "c": "#7FBA00" }
+    ]
+  },
+  {
+    "name": "Master Card",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "circle", "x": 75, "y": 100, "r": 40, "c": "red", "a": 0.7 },
+      { "type": "circle", "x": 125, "y": 100, "r": 40, "c": "orange", "a": 0.7 }
+    ]
+  },
+  {
+    "name": "BMW",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "circle", "x": 100, "y": 100, "r": 50, "c": "grad radi 60 100 150 150 70 5 white black" },
+      { "type": "arc", "x": 100, "y": 100, "r": 15, "s": 1, "e": 1.5, "w": 40, "c": "#009ADA" },
+      { "type": "arc", "x": 100, "y": 100, "r": 15, "s": 0, "e": 0.5, "w": 40, "c": "#009ADA" },
+      { "type": "arc", "x": 100, "y": 100, "r": 15, "s": 0.5, "e": 1, "w": 40, "c": "white" },
+      { "type": "arc", "x": 100, "y": 100, "r": 15, "s": 1.5, "e": 0, "w": 40, "c": "white" }
+    ]
+  },
+  {
+    "name": "Grovy",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "circle", "x": 100, "y": 100, "r": 50, "c": "grad radi 60 60 150 140 140 30 #505050 #505050 #343434 #252525" },
+      { "type": "arc", "x": 100, "y": 100, "r": 47, "s": -0.28, "e": 1.6, "w": 8, "c": "grad radi 60 60 45 60 60 90 #FD914C #C3708D #8C63BF" },
+      { "type": "rect", "x": 130, "y": 75, "h": 7, "w": 15, "c": "grad radi 60 60 45 140 140 60 #FD914C #FD914C #FD914C #C3708D #B56D9A #8C63BF", "rotation": -0.255 },
+      { "type": "arc", "x": 100, "y": 100, "r": 10, "s": 0, "e": 2, "w": 10, "c": "grad radi 95 95 20 105 105 15 #FFFFFF #FFFFFF #D3D3D3" }
+    ]
+  },
+  {
+    "name": "Chrome",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "circle", "x": 100, "y": 100, "r": 20, "c": "lightblue" },
+      { "type": "arc", "x": 100, "y": 100, "r": 47, "s": 1.2, "e": 1.8, "w": 40, "c": "red" },
+      { "type": "arc", "x": 100, "y": 100, "r": 47, "s": 1.9, "e": 0.5, "w": 40, "c": "yellow" },
+      { "type": "arc", "x": 100, "y": 100, "r": 47, "s": 0.6, "e": 1.1, "w": 40, "c": "green" }
+    ]
+  },
+  {
+    "name": "Google",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "text", "t": "G", "x": 25, "y": 100, "s": 30, "f": "Arial", "c": "blue" },
+      { "type": "text", "t": "o", "x": 45, "y": 100, "s": 30, "f": "Arial", "c": "red" },
+      { "type": "text", "t": "o", "x": 65, "y": 100, "s": 30, "f": "Arial", "c": "yellow" },
+      { "type": "text", "t": "g", "x": 85, "y": 100, "s": 30, "f": "Arial", "c": "blue" },
+      { "type": "text", "t": "l", "x": 105, "y": 100, "s": 30, "f": "Arial", "c": "green" },
+      { "type": "text", "t": "e", "x": 125, "y": 100, "s": 30, "f": "Arial", "c": "red" }
+    ]
+  },
+  {
+    "name": "Instagram",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "round_rect", "x": 100, "y": 100, "w": 100, "h": 100, "r": 15, "c": "grad radi 60 160 5 60 160 100 yellow #ff0000 #ff5500 #cc33ff purple" },
+      { "type": "round_rect", "x": 100, "y": 100, "w": 80, "h": 80, "r": 20, "c": "white" },
+      { "type": "round_rect", "x": 100, "y": 100, "w": 66, "h": 66, "r": 15, "c": "grad radi 50 150 5 60 160 120 yellow #ff0000 #ff5500 #cc33ff purple" },
+      { "type": "arc", "x": 100, "y": 100, "r": 15, "s": 0, "e": 2, "w": 7, "c": "white" },
+      { "type": "circle", "x": 120, "y": 80, "r": 5, "c": "white" }
+    ]
+  },
+  {
+    "name": "C#",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "circle", "x": 100, "y": 100, "r": 50, "c": "#aa55aa" },
+      { "type": "arc", "x": 100, "y": 100, "r": 30, "s": 0.2, "e": -0.2, "w": 15, "c": "white" },
+      { "type": "text", "t": "#", "x": 130, "y": 110, "s": 30, "f": "Arial", "c": "white" }
+    ]
+  },
+  {
+    "name": "Red Cross",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "rect", "x": 100, "y": 100, "w": 20, "h": 100, "c": "red" },
+      { "type": "rect", "x": 100, "y": 100, "w": 100, "h": 20, "c": "red" }
+    ]
+  },
+  {
+    "name": "Wordpress",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "circle", "x": 100, "y": 100, "r": 50, "c": "black" },
+      { "type": "arc", "x": 100, "y": 100, "r": 47, "s": 0, "e": 2, "w": 2, "c": "white" },
+      { "type": "text", "t": "W", "x": 100, "y": 143, "s": 95, "f": "Coronetscript", "c": "white" }
+    ]
+  },
+  {
+    "name": "Beats",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "circle", "x": 100, "y": 100, "r": 50, "c": "red" },
+      { "type": "text", "t": "b", "x": 100, "y": 125, "s": 110, "f": "Calibri", "c": "white" }
+    ]
+  },
+  {
+    "name": "Youtube",
+    "ref": "https://1000logos.net/wp-content/uploads/2021/04/Spotify-logo.png",
+    "steps": [
+      { "type": "round_rect", "x": 100, "y": 100, "w": 100, "h": 75, "r": 20, "c": "red" },
+      { "type": "tri", "x1": 100, "y1": 125, "x2": 100, "y2": 175, "x3": 150, "y3": 150, "c": "white" }
+    ]
+  }
+]
